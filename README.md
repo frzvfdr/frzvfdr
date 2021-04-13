@@ -1,4 +1,4 @@
-## I’m Firouz Vafadri the Founder and CEO of Light Links_ir known as @frzvfdr
+## I’m Firouz Vafadri the Founder and CEO of [Light Links_ir](https://lightlinks.ir) known as @frzvfdr
 - Interested in : 
 - [x] Single Board Computers (SBC)
 - [x] Embedded Operating Systems
