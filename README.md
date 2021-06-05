@@ -4,8 +4,8 @@
 - [x] Embedded Operating Systems
 - [x] Openwrt & DDWrt
 - [x] IOT
-- Currently learning shell scripts , compiling linux kernels for embedded systems , exploring IOT based softwares , making php based websites and ...
-- If you are intrested in Linux based ebmedded systems , IOT hubs and OpenWrt send your CV to jobs@lightlinks.ir
+- Currently learning shell scripts, compiling Linux kernels for embedded systems, exploring IOT based softwares, making PHP-based websites, and ...
+- If you are interested in Linux based embedded systems, IOT hubs and OpenWrt send your CV to jobs@lightlinks.ir
 - To contact me directly just send an Email to vafadari@lightlinks.ir
  > Use Light Links Routers & Link Like Light ...
   
