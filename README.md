@@ -1,12 +1,12 @@
-## I’m Firouz Vafadri the Founder and CEO of [Light Links_ir](https://lightlinks.ir) known as @frzvfdr
+## I’m Firouz Vafadri the Founder of [Light Links_ir](https://lightlinks.ir) known as @frzvfdr
 - Interested in : 
 - [x] Single Board Computers (SBC)
 - [x] Embedded Operating Systems
 - [x] Openwrt & DDWrt
-- [x] IOT
+- [x] IoT
 - [X] Computer Vision
-- Currently learning shell scripts, compiling Linux kernels for embedded systems, exploring IOT based softwares, making PHP-based websites, and ...
-- If you are interested in Linux based embedded systems, IOT hubs and OpenWrt send your CV to jobs@lightlinks.ir
+- Currently learning shell scripts, compiling Linux kernels for embedded systems, exploring IoT based softwares, making PHP-based websites, and ...
+- If you are interested in Linux based embedded systems, IoT hubs and OpenWrt send your CV to jobs@lightlinks.ir
 - To contact me directly just send an Email to vafadari@lightlinks.ir
  > Use Light Links Routers & Link Like Light ...
   
